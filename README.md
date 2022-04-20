@@ -60,7 +60,7 @@ The last 2 algorithms are from Ensemble learning group. This concept refers to t
 
 ![Balanced Random Forest Classifier](/Resources/1_5.jpg)
 
-## 5. Easy Ensemble AdaBoost Classifier
+## 6. Easy Ensemble AdaBoost Classifier
 
 1. The accuracy was 93% which is considered good.
 2. Majority class had a precision of 99% while minority class ("high risk") only had a precision of 1% which is considered low.
@@ -81,6 +81,9 @@ The models #5 and #6 did better. The accuracy scores are 79% and 93% for Balance
 ## Recommendation
 
 From the accuracy, go straight to the last 2 models for futur analyses.
+
+_______
+
 
 People call me JC, the short for [Juanita C. Nunez](https://www.linkedin.com/in/juanitacamargonunez/). Contact me for any questions! I love networking, so here you go  my [LinkedIn] (https://www.linkedin.com/in/juanitacamargonunez/) :)
 
