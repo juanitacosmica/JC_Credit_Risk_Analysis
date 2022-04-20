@@ -3,6 +3,12 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Large csv Data
+LoanStats_2019Q1.csv
+
 # C extensions
 *.so
 
